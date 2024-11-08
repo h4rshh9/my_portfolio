@@ -19,7 +19,7 @@ function nav_close() {
 };
 
 function contact() {
-  window.location.href = "https://wa.me//";
+  window.location.href = "https://wa.me/9024957735/";
 };
 
 
@@ -44,7 +44,7 @@ function sendEmail() {
         <p style="margin-bottom: 10px;"><strong>Message:</strong> ${mess.value}</p>
       </div>
       <div style="background-color: #007bff; color: #ffffff; border-radius: 0 0 10px 10px; padding: 10px;">
-      <span style="margin: 0;">&copy;Ankit Raj</span>
+      <span style="margin: 0;">&copy;Harshh</span>
     </div>
     </div>
   </div>
