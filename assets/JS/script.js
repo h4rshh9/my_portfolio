@@ -51,12 +51,8 @@ function sendEmail() {
 `;
 
 Email.send({
-  // Host: "smtp.elasticemail.com",
-  // Username: "ankitgame09@gmail.com",
-  // Password: "3B90AA843D8DCA9333F0808C684A7F36C4F9",
-  // 06494be6-8412-4668-bd2d-e502cfff0d27
   SecureToken: "06494be6-8412-4668-bd2d-e502cfff0d27",
-  To: 'Hmewara966@gmail.com',
+  To: "portforharsh@gmail.com",
   From: "portforharsh@gmail.com",
   Subject: subject.value,
   Body: bodyMessage
