@@ -370,7 +370,7 @@ main {
 .main-content-image {
     display: var(--flex);
     align-items: var(--center);
-    width: 25rem;
+    width: 20rem;
     border-radius: 50%;
     background-color: var(---main-color);
     animation: imagerotate 5s infinite ease-in;
